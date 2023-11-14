@@ -20,4 +20,4 @@ The Artificial Neural Network (ANN) architecture employs Rectified Linear Unit (
 Our research work titled **Improving Chronic Kidney Disease Prediction using ANN with Normalization** has been presented at the ***4th International Conference on Data Science and Applications, 2023*** and accepted for publication in the ***Springer Book Series, “Lecture Notes in Networks and Systems 2024.*** 
 
 ## Authors
-Neel Kothari, Mohammed Raza Syed, Praniket Walavalkar, Pratik Kanani & Nilesh Patil
+Neel Kothari, Mohammed Raza Syed, Praniket Walavalkar, Dr. Pratik Kanani & Dr. Nilesh Patil
