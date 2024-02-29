@@ -23,6 +23,12 @@ Our research work titled **Improving Chronic Kidney Disease Prediction using ANN
 Neel Kothari, Mohammed Raza Syed, Praniket Walavalkar, Dr. Pratik Kanani & Dr. Nilesh Patil
 
 ## How to cite this paper
+
+Kothari, N., Rizvi, S.M.R., Walavalkar, P., Kanani, P., Patil, N. (2024). Improving Chronic Kidney Disease Prediction Using ANN with Normalization. In: Nanda, S.J., Yadav, R.P., Gandomi, A.H., Saraswat, M. (eds) Data Science and Applications. ICDSA 2023. Lecture Notes in Networks and Systems, vol 818. Springer, Singapore. https://doi.org/10.1007/978-981-99-7862-5_42
+
+OR
+
+
 @InProceedings{10.1007/978-981-99-7862-5_42, <br>
 author="Kothari, Neel and Rizvi, Syed Mohammed Raza and Walavalkar, Praniket and Kanani, Pratik and Patil, Nilesh",<br>
 editor="Nanda, Satyasai Jagannath and Yadav, Rajendra Prasad and Gandomi, Amir H. and Saraswat, Mukesh",<br>
