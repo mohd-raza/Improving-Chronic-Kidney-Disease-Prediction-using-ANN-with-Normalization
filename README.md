@@ -26,20 +26,3 @@ Neel Kothari, Mohammed Raza Syed, Praniket Walavalkar, Dr. Pratik Kanani & Dr. N
 
 Kothari, N., Rizvi, S.M.R., Walavalkar, P., Kanani, P., Patil, N. (2024). Improving Chronic Kidney Disease Prediction Using ANN with Normalization. In: Nanda, S.J., Yadav, R.P., Gandomi, A.H., Saraswat, M. (eds) Data Science and Applications. ICDSA 2023. Lecture Notes in Networks and Systems, vol 818. Springer, Singapore. https://doi.org/10.1007/978-981-99-7862-5_42
 
-OR
-
-
-@InProceedings{10.1007/978-981-99-7862-5_42, <br>
-author="Kothari, Neel and Rizvi, Syed Mohammed Raza and Walavalkar, Praniket and Kanani, Pratik and Patil, Nilesh",<br>
-editor="Nanda, Satyasai Jagannath and Yadav, Rajendra Prasad and Gandomi, Amir H. and Saraswat, Mukesh",<br>
-title="Improving Chronic Kidney Disease Prediction Using ANN with Normalization",<br>
-booktitle="Data Science and Applications",<br>
-year="2024",<br>
-publisher="Springer Nature Singapore",<br>
-address="Singapore",<br>
-pages="553--568",<br>
-abstract="Chronic kidney disease (CKD) is one of the most critical diseases in today's day and age, and its accurate and thorough diagnosis is the need of the hour. This work aims to accurately predict CKD in a patient with the help of machine learning by developing a robust artificial neural network model which would vastly benefit the healthcare industry. It takes into account every criterion and predicts whether the subject may encounter CKD or not. An empirical comparison of the efficiency of various machine learning algorithms such as random forest classifier, extra trees classifier, K-nearest neighbors, gradient boosting classifier, stochastic gradient boosting, cat boost classifier, light gradient boosting machine, and decision tree classifier is also portrayed in this research. The algorithms implemented on preprocessed data gave accuracies of not more than 95{\%}. This work has implemented a modified artificial neural network which predicted whether a patient has CKD or not with an accuracy of 98{\%}, which surpassed that of all the other classification algorithms that were compared. The proposed model may serve as an effective and accurate tool to predict the occurrence of CKD in a patient.",<br>
-isbn="978-981-99-7862-5"<br>
-}
-
-
